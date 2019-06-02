@@ -17,7 +17,7 @@ $(document).ready(function() {
 
   function test(){}
   function taoBranch(){}
-
+  function timKiem(){}
   function taoBang(mangNguoiDung) {
     var tblBody = $("#tblDanhSachNguoiDung");
     var content = "";
