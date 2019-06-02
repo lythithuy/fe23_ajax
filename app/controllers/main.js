@@ -15,6 +15,8 @@ $(document).ready(function() {
       });
   }
 
+  function test(){}
+
   function taoBang(mangNguoiDung) {
     var tblBody = $("#tblDanhSachNguoiDung");
     var content = "";
