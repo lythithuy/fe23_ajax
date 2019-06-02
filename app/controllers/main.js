@@ -16,6 +16,7 @@ $(document).ready(function() {
   }
 
   function test(){}
+  function taoBranch(){}
 
   function taoBang(mangNguoiDung) {
     var tblBody = $("#tblDanhSachNguoiDung");
